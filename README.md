@@ -5,5 +5,5 @@ SQL and Tableau work, analyzing data to have a better understanding and insights
 Group work and collaboration were essential components of our work in data analysis and visualization, allowing team to combine their expertise and insights to achieve better insights and meaningful results.
 
 ### Contributions
-Apoorva Shandilya
+Apoorva Shandilya \
 Soaib Hassan
